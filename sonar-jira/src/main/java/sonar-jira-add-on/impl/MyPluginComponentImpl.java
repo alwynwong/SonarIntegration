@@ -23,6 +23,9 @@ public class MyPluginComponentImpl implements MyPluginComponent
 
     public String getName()
     {
+
+        System.out.println("Say hello world");
+
         if(null != applicationProperties)
         {
             return "myComponent:" + applicationProperties.getDisplayName();
