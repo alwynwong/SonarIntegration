@@ -1,6 +1,1 @@
-[
-    "Create and publish custom Chrome",
-    "Licensed under the Apache License",
-    "Licensed under the Apache License2",
-    "The License for the specific language governing permissions"
-]
+[    "Develop and deploy a custom Chrome extension",    "Ensure the extension is licensed under the Apache License 2.0",    "Review the project license to ensure it complies with the Apache License 2.0 requirements",    "Include a LICENSE file with the full text of the Apache License 2.0"]
